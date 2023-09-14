@@ -70,18 +70,7 @@ A two thirds majority vote of the **Community Meeting** is needed.
 
 §5.2 A petition from members (at least three signatures required) can be made to turn the decision from an official vote into a **Community Meeting** vote, which must be announced 3 days prior to the voting, requiring a two/third majority to pass.
 
-### §6. Miscellaneous
-
-§6.1 **Staff**, **Force Commander** and **Community Leader **may be worth one vote to decide on **Community Policies**.
-
-§6.2** Community Policies** need a majority to be passed.
-
-6.3 There must be only one official gathering held at the same time.
-
 ## Paragraph II: Rights and Duties
-
-All other positions other than **Force Commander and Community Leader **are not necessary for now.
-We can vote upon new Roles during a **Staff Meeting** and elect people during any **Community Meeting** session.
 
 ### 1.  Rights and Duties of **KOTV members** and **Honorary members**
 
@@ -148,9 +137,7 @@ Same duties and rights as **Staff.**
 Duties :
 * Leads the **Staff Meetings** and **Community Meetings**,
 * Right to decide during votes in case of ties (during **Community Meetings** and **Staff Meetings**),
-* Ensure integrity of relationship between members of community and leadership,
 * Lead the diplomacy between other gaming communities,
 * Lead the outfit and pass on to new generations of government bodies.
 
 Rights :
-* No rights to cumulate mandates.
