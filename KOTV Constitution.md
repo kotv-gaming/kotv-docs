@@ -8,7 +8,7 @@ Membership to the according Gaming Community (E.g: Planetside 2) is being given 
 
 The Community Meeting is held between **Community Leader **mandates to vote upon Official Members election: **Community Leader, Force Commander** (and all elected individuals) and also **Staff**.
 It is also the only place where the **Constitution** can be modified on a two third vote.
-A **Community Meeting** is only open to **members,** but the meeting minutes (notes of the meeting) are open to the members of said Gaming Community.
+A **Community Meeting** is only open to **members**.
 
 ### Staff
 
@@ -41,9 +41,7 @@ A two thirds majority vote of the **members** is required.
 §2.2.1 The **Community Leader **holds the right to choose a decision in case of a tie in votes.
 §2.2.2 **Community Meeting** meeting minutes will be posted privately for members on Discord.
 
-§2.3 **Community Meeting** sessions are only valid if at least 5 days prior to and immediately before the assembly all members were informed. Such promotion must take place in all communication channels, including Discord and Ingame.
-
-§2.4 A minimum battlerank of 25 on the character invited in the Outfit is required to be able to vote during the **Community Meeting.**
+§2.3 **Community Meeting** sessions are only valid if at least 5 days prior to and immediately before the assembly all members were informed.
 
 ### §3. Amendments
 
@@ -54,10 +52,6 @@ A two thirds majority vote of the **members** is required.
 ### §4. Staff
 
 §4.1 **Staff** can be elected in a majority fashion by the members during a **Community Meeting** or a **Staff Meeting**. Each candidate can give an overview about their previous contributions to KOTV or other outfits, lay out their plan how they will contribute to the outfit and why they are qualified to hold the position (will be the same duration as a **Community Leader **mandate).
-
-§4.2 **Staff Meetings** are only valid if members were informed at least 2 days prior and immediately before the assembly is held and promoted in all communication channels (voice and chat softwares as well as in-game).
-
-§4.3 **Staff Meetings** are led by the **Community Leader **or are considered null and invalid. 
 
 §4.4 **Community Policies** will only be valid if it was decided upon by majority votes during an **Staff Meeting**.
 
