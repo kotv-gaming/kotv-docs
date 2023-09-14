@@ -90,7 +90,7 @@ Duties:
 Rights:
 * Same as members,
 * To be ousted by a vote during **Staff Meetings**,
-* Ratifying kick of members, if constitution or duties of members has been breached upon a 3 strikes fashion (warning, warning/kick, ban),
+* Ratifying kick of members, if constitution or duties of members has been breached
 * Ratifying exceptional kicks in case of any [EULA](https://www.planetside2.com/eula) breach.
 
 ### 3. Rights and Duties of the **Force Commander**
