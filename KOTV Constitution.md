@@ -118,19 +118,6 @@ Duties:
 Rights:
 * Executive control over all forces on the battlefield and the outfit resources,
 
-### 4. Rights and Duties of **Secretary**
-
-Secretary position is an optional position in the community.
-Same Rights and Duties as members and **Staff**.
-Duties:
-* Participating in all matters including official documents,
-* Organise regular council meetings,
-* Assist the Community Leader and Force Commander with administrative requests,
-* Helping organize required tools for the outfit.
-
-Rights:
-* Access to KOTV drive and email box.
-
 ### 5. Rights and Duties of the **Community Leader**
 
 Same duties and rights as **Staff.**
