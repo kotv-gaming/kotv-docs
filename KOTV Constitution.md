@@ -26,12 +26,6 @@ A two thirds majority vote of the **members** is required.
 
 ### §1. Membership
 
-§1.1 Prior to any comes your private life, which may not be constrained by any means.
-Only thereafter comes loyalty to the community and its constitution.
-Finally, as the third most important, the faction, Vanu Sovereignty.
-
-§1.2 The member’s right to bear advanced weaponry, to wear spandex and to listen to dubstep shall not be infringed.
-
 ### §2. Community Meetings
 
 #### §2.1 Community Meeting Recurrence
@@ -53,7 +47,7 @@ Finally, as the third most important, the faction, Vanu Sovereignty.
 
 ### §3. Amendments
 
-§3.1 The constitution can only be altered by a vote of a two thirds majority fashion in a **Community Meeting**. “I, name, rank, invoke a **Community Meeting** to alter the constitution”.
+§3.1 The constitution can only be altered by a vote of a two thirds majority fashion in a **Community Meeting**.
 
 §3.2 The following paragraphs of the constitution may not be changed but some articles can be added to §3.2: §1.1, §1.2, §3.1, §3.2
 
@@ -76,8 +70,6 @@ A two thirds majority vote of the **Community Meeting** is needed.
 
 §5.2 A petition from members (at least three signatures required) can be made to turn the decision from an official vote into a **Community Meeting** vote, which must be announced 3 days prior to the voting, requiring a two/third majority to pass.
 
-§5.3 To make the vote valid, the following text needs to be used to inform before: “Me, Name, Outfit rank, am invoking article 5 of the constitution to hold an early election, demote or kick elected or former officials”.
-
 ### §6. Miscellaneous
 
 §6.1 **Staff**, **Force Commander** and **Community Leader **may be worth one vote to decide on **Community Policies**.
@@ -85,8 +77,6 @@ A two thirds majority vote of the **Community Meeting** is needed.
 §6.2** Community Policies** need a majority to be passed.
 
 6.3 There must be only one official gathering held at the same time.
-
-6.4 **Community Leaders **and **Force Commanders** are sworn into oath by saying the following: I solemnly swear that I will faithfully execute the Office of (…) and will, to the best of my abilities, preserve, protect and defend the Constitution of the Keepers of the Void.
 
 ## Paragraph II: Rights and Duties
 
