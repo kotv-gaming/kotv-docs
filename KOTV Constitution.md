@@ -47,8 +47,6 @@ A two thirds majority vote of the **members** is required.
 
 §3.1 The constitution can only be altered by a vote of a two thirds majority fashion in a **Community Meeting**.
 
-§3.2 The following paragraphs of the constitution may not be changed but some articles can be added to §3.2: §1.1, §1.2, §3.1, §3.2
-
 ### §4. Staff
 
 §4.1 **Staff** can be elected in a majority fashion by the members during a **Community Meeting** or a **Staff Meeting**. Each candidate can give an overview about their previous contributions to KOTV or other outfits, lay out their plan how they will contribute to the outfit and why they are qualified to hold the position (will be the same duration as a **Community Leader **mandate).
@@ -73,7 +71,6 @@ Duties:
 * No racism, except against french people
 * Do not breach games EULA,
 * Respect and/or execute **Community Policies,**
-* Don’t troll about politics, we do enough politics in KOTV.
 
 Rights:
 * Bear KOTV tag in-game,
