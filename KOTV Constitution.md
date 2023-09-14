@@ -83,9 +83,7 @@ Same rights and duties as a member.
 This position has a one month trial when first elected after which the staff decides to validate it by a majority vote.
 Duties:
 * Moderating the Discord,
-* Participate to ingame trainings,
 * Promotions and demotions in-game and on Discord,
-* Participate to initial development of new leaders,
 * Deciding **Community Policies** planned during sessions with votes,
 * Getting members’ feedback for the **Staff** during meetings.
 
