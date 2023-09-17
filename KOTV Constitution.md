@@ -21,7 +21,7 @@ Rights:
 
 ## Staff
 
-The **Staff** are elected members during either a Community Meeting or during a **Staff Meeting**.
+**Staff** members can be nominated by *Members* during a Community Meeting or chosen by Staff at any time.
 
 Same rights and duties as a member.
 
@@ -37,7 +37,7 @@ Rights:
 * Ratifying kick of members, if constitution or duties of members has been breached
 * Ratifying exceptional kicks in case of any [EULA](https://www.planetside2.com/eula) breach
 
-**Staff** can be elected in a majority fashion by the members during a **Community Meeting** or a **Staff Meeting**. Each candidate can give an overview about their previous contributions to KOTV or other outfits, lay out their plan how they will contribute to the outfit and why they are qualified to hold the position (will be the same duration as a **Community Leader** mandate).
+To apply as **Staff**, a Member needs to have been active within the community for at least 3 months.
 
 This position has a one month trial when first elected after which the staff decides to validate it by a majority vote.
 
@@ -58,6 +58,12 @@ A **Community Meeting** is only open to **members**.
 **Community Leader** candidates will present their program (written, spoken or slides) during the **Community Meeting** and the participants will elect a **Community Leader** by a majority vote.
 
 The vote for a Community Leader will take place prior to any other vote, if applicable.
+
+## Elections
+
+Once every three months, **Members** elect the **Community Leader** and **Force Commander** during a **Community Meeting**.
+
+Voting isn't necessary if there's only one candidate.
 
 ### Community Leader
 
@@ -95,9 +101,7 @@ To call for an early reelection, demote or kick an active **Community Leader**, 
 
 A two thirds majority vote of the **Community Meeting** is needed.
 
-A petition from members (at least three signatures required) can be made to turn the decision from an official vote into a **Community Meeting** vote, which must be announced 3 days prior to the voting, requiring a two/third majority to pass.
-
-A **representative** can be ousted from the said **Staff**. Can be done during an **Staff** Meeting or a **Community Meeting** on a two thirds vote.
+Any **Staff** member can be removed by other **Staff** by majority vote, or during a **Community Meeting** of all **Members** by a two-thirds majority vote.
 
 ## Amendments
 
