@@ -1,10 +1,10 @@
 # Constitution
 
-## Membership
+## 1. Membership
 
-Membership in the **Keepers of the Void** gaming community is accorded upon joining our in-game outfit, clan, or guild in a game (for example, PlanetSide 2) and actively participating in the community.
+1.1 Membership in the **Keepers of the Void** gaming community is accorded upon joining our in-game outfit, clan, or guild in a game (for example, PlanetSide 2) and actively participating in the community.
 
-**Members** have certain rights and duties:
+1.2 **Members** have certain rights and duties:
 
 Duties:
 
@@ -19,11 +19,11 @@ Rights:
 * Apply to the **Staff** and have a say in **Community Policies**
 * Bring any grievance to the **Staff**
 
-## Staff
+## 2. Staff
 
-**Staff** can be nominated by **Members** during a Community Meeting or chosen by **Staff** at any time.
+2.1 **Staff** can be nominated by **Members** during a Community Meeting or chosen by **Staff** at any time.
 
-Staff have the same rights and duties as **Members**, along with:
+2.2 Staff have the same rights and duties as **Members**, along with:
 
 Duties:
 
@@ -37,35 +37,35 @@ Rights:
 * Approve kicking out members if their actions violate the constitution or their duties
 * Approve exceptional kicks in case of any [EULA](https://www.planetside2.com/eula) breach
 
-To apply as **Staff**, a Member needs to have been active within the community for at least three months.
+2\.3 To apply as **Staff**, a Member needs to have been active within the community for at least three months.
 
-This position has a one-month trial period, after which the **Staff** will decide to confirm by a majority vote.
+2.4 This position has a one-month trial period, after which the **Staff** will decide to confirm by a majority vote.
 
-Community Policies only become valid if a majority of Staff approve.
+2.5 Community Policies only become valid if a majority of Staff approve.
 
-## Community Meeting
+## 3. Community Meeting
 
-Community Meetings are held at least once every three months to elect a **Community Leader** and a **Force Commander**.
+3.1 Community Meetings are held at least once every three months to elect a **Community Leader** and a **Force Commander**.
 
-Sessions are only valid if announced to all **Members** at least five days in advance.
+3.2 Sessions are only valid if announced to all **Members** at least five days in advance.
 
-A Community Meeting can be held in exceptional circumstances if voted upon by **Staff**.
+3.3 A Community Meeting can be held in exceptional circumstances if voted upon by **Staff**.
 
-Only **Members** can attend and vote in a Community Meeting.
+3.4 Only **Members** can attend and vote in a Community Meeting.
 
-Candidates for elected positions will give an overview of their previous contributions and gaming experience, lay out their plan on how they will contribute to the outfit and why they are qualified. Participants will then elect each position by majority vote.
+3.5 Candidates for elected positions will give an overview of their previous contributions and gaming experience, lay out their plan on how they will contribute to the outfit and why they are qualified. Participants will then elect each position by majority vote.
 
-The vote for a **Community Leader** will take place before any other vote, if applicable.
+3.6 The vote for a **Community Leader** will take place before any other vote, if applicable.
 
-## Elections
+## 4. Elections
 
-Once every three months, **Members** elect the **Community Leader** and a **Force Commander** during a **Community Meeting**.
+4.1 Once every three months, **Members** elect the **Community Leader** and a **Force Commander** during a **Community Meeting**.
 
-Voting isn't necessary if there's only one candidate.
+4.2 Voting isn't necessary if there's only one candidate.
 
 ### Community Leader
 
-The **Community Leader** has the same rights and duties as **Staff**, along with:
+4.3 The **Community Leader** has the same rights and duties as **Staff**, along with:
 
 Duties:
 
@@ -79,7 +79,7 @@ Rights:
 
 ### Force Commander
 
-A **Force Commander** has the same rights and duties as **Staff**, along with:
+4.4 A **Force Commander** has the same rights and duties as **Staff**, along with:
 
 Duties:
 
@@ -93,14 +93,14 @@ Rights:
 * Promote/demote leaders and advisors
 * Executive control over all forces on the battlefield and outfit resources
 
-## Right to Contest
+## 5. Right to Contest
 
-To call for an early re-election, demote, or kick out an active **Community Leader** or **Force Commander**, a Community Meeting must be held.
+5.1 To call for an early re-election, demote, or kick out an active **Community Leader** or **Force Commander**, a Community Meeting must be held.
 
-A two-thirds majority vote in the Community Meeting is needed to succeed.
+5.2 A two-thirds majority vote in the Community Meeting is needed to succeed.
 
-Any **Staff** member can be removed by other **Staff** by a majority vote, or during a Community Meeting of all **Members** by a two-thirds majority vote.
+5.3 Any **Staff** member can be removed by other **Staff** by a majority vote, or during a Community Meeting of all **Members** by a two-thirds majority vote.
 
-## Amendments
+## 6. Amendments
 
-The constitution can be amended by a two-thirds majority vote in a Community Meeting.
+6.1 The constitution can be amended by a two-thirds majority vote in a Community Meeting.
