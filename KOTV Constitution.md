@@ -7,20 +7,11 @@ Membership to the according Gaming Community (E.g: Planetside 2) is being given 
 ### Community Meeting
 
 The Community Meeting is held between **Community Leader **mandates to vote upon Official Members election: **Community Leader, Force Commander** (and all elected individuals) and also **Staff**.
-It is also the only place where the **Constitution** can be modified on a two third vote.
 A **Community Meeting** is only open to **members**.
 
 ### Staff
 
 The **Staff** are elected members during either a Community Meeting or during a **Staff Meeting**.
-**Staff Meetings** are led by the **Community Leader**.
-Matters of the organisation can be addressed and decisions can take place with majority votes (50%).
-
-### Right to contest
-
-To call for an early reelection an exceptional **Community Meeting **has to be held.
-A petition from the members can turn the decision from an official vote given the right requirements (see Constitution 5.2 and 5.3).
-A two thirds majority vote of the **members** is required. 
 
 ## Paragraph I: Administration
 
@@ -35,11 +26,6 @@ A two thirds majority vote of the **members** is required.
 §2.1.2 **Community Meeting** will be held at least once per 3 month.
 
 §2.1.3 **Community Meeting** can be held exceptionally if asked at least by one **Representative** and voted upon during a **Staff Meeting**.
-
-#### §2.2 Community Meeting: Community Leader Role
-
-§2.2.1 The **Community Leader **holds the right to choose a decision in case of a tie in votes.
-§2.2.2 **Community Meeting** meeting minutes will be posted privately for members on Discord.
 
 §2.3 **Community Meeting** sessions are only valid if at least 5 days prior to and immediately before the assembly all members were informed.
 
@@ -88,14 +74,11 @@ Duties:
 * Getting members’ feedback for the **Staff** during meetings.
 
 Rights:
-* Same as members,
-* To be ousted by a vote during **Staff Meetings**,
 * Ratifying kick of members, if constitution or duties of members has been breached
 * Ratifying exceptional kicks in case of any [EULA](https://www.planetside2.com/eula) breach.
 
 ### 3. Rights and Duties of the **Force Commander**
 
-Same rights and duties as a member.
 Same rights as **Staff**.
 Duties:
 * Lead an **independent **military body,
