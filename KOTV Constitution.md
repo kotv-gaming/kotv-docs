@@ -55,13 +55,13 @@ Rights:
 
 3.5 Candidates for elected positions will give an overview of their previous contributions and gaming experience, lay out their plan on how they will contribute to the outfit and why they are qualified. Participants will then elect each position by majority vote.
 
-3.6 The vote for a **Community Leader** will take place before any other vote, if applicable.
-
 ## 4. Elections
 
 4.1 Once every three months, **Members** elect the **Community Leader** and a **Force Commander** during a **Community Meeting**.
 
 4.2 Voting isn't necessary if there's only one candidate.
+
+4.3 The vote for a **Community Leader** will take place before any other vote, if applicable.
 
 ### Community Leader
 
