@@ -72,6 +72,7 @@ Duties:
 * Chair Staff and Community Meetings
 * Lead diplomacy between other gaming communities
 * Lead the outfit and pass it on to future generations
+* Spread our message and promote the outfit
 
 Rights:
 
